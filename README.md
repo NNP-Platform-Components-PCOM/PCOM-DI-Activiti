@@ -7,8 +7,8 @@ Activiti 6.0.0 (BPM engine and apps) on Tomcat 8.5. Part of the NNP Data Ingesti
 Published to Docker Hub on every push to `main`:
 
 ```
-docker.io/nubons/pcom-di-activiti:6.0.0-v1
-docker.io/nubons/pcom-di-activiti:latest
+docker.io/nubonativesolution/pcom-di-activiti:6.0.0-v1
+docker.io/nubonativesolution/pcom-di-activiti:latest
 ```
 
 Architecture: `linux/amd64`.
